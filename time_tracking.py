@@ -11,6 +11,8 @@ notes
 track end time
 
 track total time
+
+write all output to a file
 '''
 
 current_time = datetime.datetime.now()
